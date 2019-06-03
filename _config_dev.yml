@@ -1,26 +1,18 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://brittanychiang.com/
+name: Alexander Bluhm
+title: Alexander Bluhm | Software Developer
+description: Full stack software developer based in Aachen, Germany.
+url: http://alexanderbluhm.de/
 baseurl: ""
-email: brittany.chiang@gmail.com
-cover: https://brittanychiang.com/img/og.png
-logo: https://brittanychiang.com/img/emojis/technologist.png
-resume: https://brittanychiang.com/resume.pdf
+email: alexander@diebluhms.com
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
-  - title: github
-    url: https://github.com/bchiang7
+    url: mailto:alexander@diebluhms.com
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+     url: https://www.linkedin.com/in/alexander-bluhm-45393616a/
+  - title: github
+    url: https://github.com/IL4Miy
+
 
 # Build settings
 markdown: kramdown
