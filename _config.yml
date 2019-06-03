@@ -5,6 +5,7 @@ description: Full stack software developer based in Aachen, Germany.
 url: http://alexanderbluhm.de/
 baseurl: ""
 email: alexander@diebluhms.com
+cover: http://alexanderbluhm.de/img/og.png
 social:
   - title: email
     url: mailto:alexander@diebluhms.com
