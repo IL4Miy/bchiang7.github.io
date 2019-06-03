@@ -1,7 +1,5 @@
-- name: Insurance email delivery system
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
-  description: Windows service parsing incoming emails and forwarding them to the correct employee.
+- name: Email delivery system for a health company
+  description: I created a windows service, parsing incoming emails and forwarding them to the correct employee.
   used:
     - thing: C#
     - thing: Regular Expressions

@@ -11,16 +11,17 @@ frameworks:
   - item: Gatsby
   - item: Node
   - item: D3
-  - item: PhalconPHP
+  - item: Phalcon
 
 tools:
   - item: Bash
   - item: Git & Github
   - item: Postman
+  - item: WebStorm/PHPStorm
+  - item: Confluence, Jira
 
 design:
   - item: Sketch
   - item: InVision
   - item: Prototyping
   - item: Wireframing
-  - item: User Testing
